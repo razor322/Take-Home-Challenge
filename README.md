@@ -35,11 +35,9 @@ You may list what libraries you used in this project, example :
 * `components`
 * `database`
 * `model`
-* `screnn`
 * `screen`
 * `assets`
-* `styles`
-* `utils`
+
 
 
 ## <a name="apk-link"></a> APK Link :
