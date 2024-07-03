@@ -1,16 +1,46 @@
-# takehomechallenge
+# Take Home Challenge
 
-A new Flutter project.
+## <a name="introduction"></a> Introduction :
+BIGIO Mobile Dev - Take Home Challenge
+build an android application using Rick Morty API. The app must include 3 pages, a home page, detail page, and search page.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Libraries](#libraries)
+- [Project Structure](#project-structures)
+- [APK Link](#apk-link)
 
-A few resources to get you started if this is your first Flutter project:
+## <a name="features"></a> Features :
+You may list what feature you created, example :
+- List of character
+- Detail character
+- Search character
+- Favorite character
+- Bottom Navbar
+- Popup detail favorite
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## <a name="libraries"></a> Libraries :
+You may list what libraries you used in this project, example :
+- Flutter (version)
+- Line Icons for Animation
+- HTTP as API Client
+- google_nav_bar as Botton Navigation Bar.
+- SQFLite as Local Database
+
+## <a name="project-structures"></a> Project Structure :
+* `components`
+* `database`
+* `model`
+* `screnn`
+* `screen`
+* `assets`
+* `styles`
+* `utils`
+
+
+## <a name="apk-link"></a> APK Link :
+Upload your apk to google drive and attach the link here
