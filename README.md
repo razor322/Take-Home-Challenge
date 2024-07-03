@@ -45,11 +45,11 @@ You may list what libraries you used in this project, example :
 Upload your apk to google drive and attach the link here
 
 ## <a name="screenshoot"></a> Screenshoot :
+![5](https://github.com/razor322/Take-Home-Challenge/assets/48706438/772d286b-07dd-4a4e-9d06-40e9c9f8644c)
 
-![Screenshot_1720031545](https://github.com/razor322/Take-Home-Challenge/assets/48706438/39e6f94a-eb16-4d1b-8a0f-1cc6f5db39e0)
-![Screenshot_1720031414](https://github.com/razor322/Take-Home-Challenge/assets/48706438/c02a3cb5-63dc-426a-a3f9-d88dec26585c)
-![Screenshot_1720031414](https://github.com/razor322/Take-Home-Challenge/assets/48706438/17ff179d-bea9-4ffb-bdd3-57aacd4b4add)
-![Screenshot_1720031468](https://github.com/razor322/Take-Home-Challenge/assets/48706438/705b51d9-ea49-4e11-942d-b2797c5f8f30)
-![Screenshot_1720031470](https://github.com/razor322/Take-Home-Challenge/assets/48706438/04d08bc8-41cb-46a4-afbb-f732a457fae3)
+![1](https://github.com/razor322/Take-Home-Challenge/assets/48706438/5fe8e6e8-87be-4624-b218-2f2f976985ef)![2](https://github.com/razor322/Take-Home-Challenge/assets/48706438/c56792b4-8355-423a-9a47-6f193b0ce91f)![4](https://github.com/razor322/Take-Home-Challenge/assets/48706438/35eb9cec-cc2c-4bfc-a150-d3cae451063a)![3](https://github.com/razor322/Take-Home-Challenge/assets/48706438/e402f54c-d086-4a89-a768-7b08fbfcbf57)
+![6](https://github.com/razor322/Take-Home-Challenge/assets/48706438/4468d1f9-39ab-49ed-afc8-e51d458dcbd2)
+
+
 
 
